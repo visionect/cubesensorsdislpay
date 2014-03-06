@@ -1,0 +1,13 @@
+{
+  "name": "display",
+  "version": "0.0.1",
+  "description": "CubeSensors electronic paper display",
+  "main": "index.js",
+  "dependencies": {
+    "tail": "~0.3.5"
+  },
+  "devDependencies": {},
+  "repository": "https://github.com/visionect/cubesensorsdislpay.git",
+  "author": "Matevz Mihalic (Visionect d.o.o.)",
+  "license": "MIT"
+}
